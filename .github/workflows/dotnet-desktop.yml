@@ -2,9 +2,9 @@ name: .NET Desktop Build
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "hee-haw" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "hee-haw" ]
   workflow_dispatch:
 
 jobs:
